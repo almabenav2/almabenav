@@ -17,6 +17,10 @@ I'm ALma Benavides, a student at Brigham Young University-Idaho. I'm passionate 
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
+Projects:
+Individual Full stack Ecommerce Project: https://gamezonewdd430.vercel.app/
+Team Ecommerce Project: https://crafters-project.vercel.app/login
+
 ## Let's Connect! 🚀
 
 - Here is my [www.linkedin.com/in/almabenav ] profile
